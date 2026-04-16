@@ -1,0 +1,15 @@
+# Configuración de credenciales y API (¡Nunca subir esto a GitHub!)
+secrets.json
+
+# Datos exportados de salud y GPS personales de Xiaomi (No subir a GitHub)
+*.csv
+
+# Rutas generadas e historial 
+mis_rutas_strava/
+gpx_perfectos_strava/
+*.gpx
+
+# Archivos propios de Python/Sistema
+__pycache__/
+*.pyc
+.DS_Store
