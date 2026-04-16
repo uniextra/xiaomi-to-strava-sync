@@ -35,7 +35,7 @@ You will see several `.csv` files. The script will automatically locate the ones
    ```bash
    pip install pandas requests
    ```
-3. Place this Python script (e.g. `sync.py` or `3.py`) in the **exact same folder** as the `.csv` files exported from Xiaomi.
+3. Place this Python script (e.g. `syncfit.py`) in the **exact same folder** as the `.csv` files exported from Xiaomi.
 
 ## 3. Strava API Setup (First Time Only)
 
@@ -49,7 +49,7 @@ To let the script upload workouts to your Strava account safely, you need your o
 
 Run the script from your terminal:
 ```bash
-python 3.py
+python syncfit.py
 ```
 
 **First time workflow:**
